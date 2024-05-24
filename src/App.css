@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+table{
+  margin-top: 32px;
+  border-collapse: collapse;
+  border: 1px solid white;
+}
+
+tbody, thead, th, tr, td {
+  border: 1px solid white;
+}
+
+th, td {
+  padding: 8px;
+}
